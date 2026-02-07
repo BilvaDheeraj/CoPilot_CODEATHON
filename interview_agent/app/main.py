@@ -3,7 +3,7 @@ from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel
 from app.orchestrator import Orchestrator
 
-app = FastAPI(title="Advanced Interview AI Agent")
+app = FastAPI(title="CoPilot.AI Agent")
 
 # CORS Configuration
 app.add_middleware(

@@ -1,4 +1,4 @@
-# Advanced Interview AI Agent
+# Advanced CoPilot.AI Agent
 
 ## Overview
 This is a comprehensive AI Agent designed to conduct multi-round interviews, covering Behavioural, Logical, and Aptitude domains. It features a FastAPI backend and a Next.js frontend, with Redis-backed session management.
